@@ -1,2 +1,2 @@
 # Trojan-Detection-Challenge-2022
-Ai safety Fall 2022 project -  https://www.aisafetyusc.com/
+AI Safety USC Fall 2022 project -  https://www.aisafetyusc.com/
